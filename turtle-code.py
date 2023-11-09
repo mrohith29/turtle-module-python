@@ -13,5 +13,3 @@ def drawSpiral(myTurtle, linelen):
 
 drawSpiral(myTurtle, 80) 
 myWin.exitonclick() 
-
-#testing comment line
