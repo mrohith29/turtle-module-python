@@ -1,0 +1,10 @@
+import turtle
+wn = turtle.Screen()
+alex = turtle.Turtle()
+swing = turtle.Turtle()
+for _ in range(4):
+    swing.forward(200)
+    swing.right(90)
+    alex.forward(100)
+    alex.right(90)
+#wn.mainloop()
