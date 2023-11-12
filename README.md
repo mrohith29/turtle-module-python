@@ -28,7 +28,7 @@ Exploring turtle module functionalities in python
 ----
     turtle.begin_fill() and turtle.end_fill(): Used to fill the area between them with the current pen color.
 
-### The turtle module also provides a number of functions to control the appearance of the turtle. Some of the key functions include:
+### <u>The turtle module also provides a number of functions to control the appearance of the turtle. Some of the key f unctions include: </u>
 
     turtle.shape(shape): Sets the shape of the turtle. The default shape is an arrow, but you can also change it to a circle, square, or triangle.
 ---
